@@ -52,5 +52,5 @@ Retail management needs a consolidated view of sales and profitability to:
 The dashboard enables management to monitor business performance, identify profitability improvement opportunities, evaluate regional and product contributions, and make informed commercial decisions.
 
 ## Dashboard Preview
-![Decathlon Dashboard](images/decathlon-dashboard.png)
+![Decathlon Dashboard](https://github.com/vaishnavig824-cmd/decathlon-sales-performance-dashboard/blob/main/Decathlon%20Snapshot.png)
 
